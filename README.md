@@ -8,3 +8,6 @@
 
 ## Deal with cooking and cleaning
 * It's all about the details, buying the right thing and following the schedule, but it doesn't need to be perfect
+
+## Dealing with security
+* Security is deductive logic. Its never inductive. And its heavily based on concrete experience than abstract experience and hypothesises
