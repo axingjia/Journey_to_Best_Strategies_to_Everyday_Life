@@ -18,5 +18,12 @@
 ## Dealing with personal finance
 * It's more about spending enough time to research, read, and find out about answers. And about being skeptical about any advices you get
 
+## Dealing with spirituality
+* Its more about authoritative guidance, with a bit of personal moral compass on guiding and telling whats right or wrong.
+
+
+
+
+
 
 
