@@ -2,7 +2,7 @@
 
 ## Dealing with Home Improvement
 * Deal with the problem when it comes
-* (speculation) Because there are just so many little things in the house. If you want to learn ahead of time how to fix them, there are just too many details that it is possible. 2. Also, because usually any fixes might not need urgent attention, you might (speculation) have the luxury of time to look up how to repair.
+* (speculation) Because there are just so many little things in the house. If you want to learn ahead of time how to fix them, there are just too many details that it is impossible. 2. Also, because usually any fixes might not need urgent attention, you might (speculation) have the luxury of time to look up how to repair.
 
 ## Dealing with Digital Equipment
 * Learn about them ahead of time, so when you deal with the actual problem, you won't be stuck at there clueless
