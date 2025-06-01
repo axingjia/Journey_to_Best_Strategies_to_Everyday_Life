@@ -23,7 +23,7 @@
 * Its more about authoritative guidance, with a bit of personal moral compass on guiding and telling whats right or wrong.
 
 ## Dealing with education
-* Hardwork, curiosity, and sharing
+* Hardwork, curiosity, and sharing/teaching
 
 ## Dealing with politics
 * TBD
