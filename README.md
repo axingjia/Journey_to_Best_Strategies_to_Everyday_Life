@@ -14,3 +14,9 @@
 
 ## Dealing with personal fitness
 * (speculation) It's more about a lifestyle. The time, energy, money to put into diet, sleep, and fitness. And after gaining the fitness, all the resources for maintaining that. The higher it goes, the more it takes to maintain
+
+## Dealing with personal finance
+* It's more about spending enough time to research, read, and find out about answers. And about being skeptical about any advices you get
+
+
+
