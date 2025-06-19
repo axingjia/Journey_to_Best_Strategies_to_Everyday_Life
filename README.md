@@ -32,6 +32,9 @@
 ## Dealing with Climate Change and Science
 * TBD
 
+## Dealing with Privacy
+* If it's in your domain of management, maybe personal social media, or website, you have to take ownership of managing your own privacy. If it's under other organization's management, you just have to trust them to manage it in good faith. The only way for you to deal with privacy from external organization is your right to be forgotten.
+
 
 
 
