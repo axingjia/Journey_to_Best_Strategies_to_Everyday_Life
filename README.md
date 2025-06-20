@@ -38,6 +38,9 @@
 ## Dealing with Screen Time Management
 * If you scroll on social media and start to feel anxious, or angry, or any exccessive negative emotion. Think of it as a threshold. Just stop scrolling and get back to the physical world. You are fine and your surrounding is fine. Don't let what you see that happens somewhere so far away to affect you. The reason you should stop is that if you keep scrolling and see you, you might be likely going to search more about the information, and you get more anxious, and you search more then. It will be a vicious cycle. Also, why think of it as a threshold is because you don't want to be reactive to the stuff you scroll. Hypoetheically you see something you don't like and immediately avoid it, or worse react on it, you will become less and less informed. Build a threshold, so you can protect your peace at the same time be somewhat informed.
 
+## Dealing with Teaching
+* You can provide information at most of the time as advising, but it's their blindspot you might need to get more involved. 2. When it's their responsibility to make any decision, you have to leave them alone
+
 
 
 
